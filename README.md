@@ -14,6 +14,14 @@ git clone https://github.com/yasser-acc/Portfolio-Websites-Templates.git
 ```
 Once you have the repository on your local machine, you can use the templates and customize them to fit your needs. 
 
+To downolad a single portfolio template folder that you liked follow these steps:
+
+1. select the folder you want to download and copy copy its URL
+2.  navigate to https://download-directory.github.io/
+3. paste the URL into the text box, and hit enter
+
+After following these steps your desired folder will be downloaded
+
 ## Usage
 
 The templates are easy to use and customize. You can choose a template that fits your style and add your own content and images to it. Each template comes with its own instructions on how to use and customize it. 
