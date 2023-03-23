@@ -1,4 +1,4 @@
-# Portfolio Websites Template 1
+# Portfolio Website Template 1
 
 this is a preview of how the index file hero section looks like.
 
