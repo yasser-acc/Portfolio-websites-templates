@@ -1,8 +1,8 @@
-# Portfolio Website Template 15
+# Portfolio Website Template 12
 
 this is a preview of how the index file hero section looks like.
 
-![porfolio template 15](../Previews/Portfolio-Website-Template-15.png)
+![porfolio template 12](../Previews/Portfolio-Website-Template-12.png)
 
 ## Directory downoald steps
 
