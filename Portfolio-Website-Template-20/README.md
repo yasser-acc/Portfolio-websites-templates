@@ -2,7 +2,7 @@
 
 this is a preview of how the index file hero section looks like.
 
-![porfolio template 20](../Lonely/Portfolio-Website-Template-20.png)
+![porfolio template 20](../Previews/Portfolio-Website-Template-20.png)
 
 ## Directory downoald steps
 
